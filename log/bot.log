@@ -1,0 +1,11 @@
+
+2025-06-28 21:16:55,532 - INFO - Binance Spot client initialized in testnet mode.
+2025-06-28 21:17:07,612 - INFO - Order simulated: {}
+2025-06-28 21:18:36,208 - INFO - Binance Spot client initialized in testnet mode.
+2025-06-28 21:19:30,918 - INFO - Order simulated: {}
+2025-06-28 21:22:59,709 - INFO - Binance Spot client initialized in testnet mode.
+2025-06-28 21:23:26,206 - INFO - Order simulated: {}
+2025-06-28 21:35:22,305 - INFO - Binance Futures client initialized on MAINNET.
+2025-06-28 21:36:00,207 - ERROR - ❌ Futures order failed: APIError(code=-2019): Margin is insufficient.
+2025-06-28 21:39:44,204 - INFO - Binance Spot client initialized in testnet mode.
+2025-06-28 21:40:05,845 - INFO - Order simulated: {}
